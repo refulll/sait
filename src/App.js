@@ -1,20 +1,35 @@
 import { useState } from "react";
-import Shapka from "./components/Shapka";
-import style1 from "./style/Style1.css"
-import monesy from "./foto/osnova2/monesy.png"
+import "../src/components/css/html.css"
+import Shapka from './components/Shapka';
+import Block1 from './components/Block1';
+import Block2 from "./components/Block2"
+import Block3 from './components/Block3';
+import Block4 from './components/Block4';
+import Block5 from './components/Block5';
+import Block6 from './components/Block6';
+import Block7 from './components/Block7';
+import Block8 from './components/Block8';
+import Block9 from './components/Block9';
+import Block10 from './components/Block10';
+
 function App() {
   return (
     <>
-    <Shapka/>
-    <div className="block3">
-    <img className="bike3"src={monesy}></img>
-    </div>
-  <div className="text2">
-    <p className="biketext3">Service, maintenance and insurance</p>
-    <p className="biketext4">The lease includes an all-in service package. Throughout the entire 36 months, you are fully insured against damage, theft and maintenance. In addition, you always have access to roadside assistance. </p>
-  </div>
+    {/* <Shapka/>
+        <Block1/>
+        <Block2/>
+        <Block3/>
+        <Block4/>
+        <Block5/>
+        <Block6/>
+        <Block7/>
+        <Block8/>
+        <Block9/>
+        <Block10/> */}
+        <Shapka/>
+
     </>
   );
 }
 
-export default App;
+export default App; 

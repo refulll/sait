@@ -1,0 +1,63 @@
+.div_faq{
+    font-family: Raleway;
+    margin-left: 480px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.d1{
+    display: flex;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.p_minus{
+    font-size: 25px;
+
+
+}
+.pab{
+    font-size: 14px;
+    color: rgba(20, 22, 21, 0.6);
+
+}
+.bbb{
+    font-size: 120px;
+    font-weight: 500;
+}
+.p_2{
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+    width: 1000px;
+    border-top: 1px solid #dfdfdf ;
+}
+.p_3{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    width: 1000px;
+    border-top: 1px solid #dfdfdf ;
+}
+.p_4{
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+    width: 1000px;
+    border-top: 1px solid #dfdfdf ;
+
+}
+.p_5{
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+    width: 1000px;
+    border-top: 1px solid #dfdfdf ;
+    border-bottom:  1px solid #dfdfdf;
+
+}
+.faq_main{
+    margin-left: 30px;
+}
+.p_01{
+    width: 1000px;
+    border-top: 1px solid #dfdfdf ;
+}

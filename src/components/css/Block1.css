@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bike1{
+    position: relative;
+    font-family: Raleway;
+
+}
+.img_bike1{
+    width: 100%;
+}
+.text_1{
+    position: absolute;
+    top: 0;
+    margin-top: 460px;
+    margin-left: 100px;
+    color: white;
+}
+.text_2{
+    position: absolute;
+    bottom: 520px;
+    left: 100px;
+    font-size: 60px;
+    color: white;
+}
