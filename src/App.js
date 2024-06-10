@@ -11,6 +11,14 @@ import Block7 from './components/Block7';
 import Block8 from './components/Block8';
 import Block9 from './components/Block9';
 import Block10 from './components/Block10';
+import Block11 from './components/Block11';
+import Block12 from './components/Block12';
+import AccordionContainer from './components/AccordionContainer';
+import Accordion from './components/Accordion';
+import ProductList from './components/ProductList';
+import ProductCard from './components/ProductCard';
+
+
 
 function App() {
   return (
@@ -21,13 +29,20 @@ function App() {
         <Block3/>
         <Block4/>
         <Block5/>
-        <Block6/>
+      
+        <ProductList/>
         <Block7/>
-        <Block8/>
+        <AccordionContainer/>
+        <Accordion/>
         <Block9/>
         <Block10/> */}
-        <Shapka/>
 
+
+        <Shapka/>
+        <Block11/>
+        <ProductList/>
+        <Block12/>
+          
     </>
   );
 }
